@@ -1,5 +1,9 @@
 <h1>Incident Handler's Journal Entry</h1>
 
+<h2>Description</h2>
+I was presented with a scenario involving a security incident at a Health Care Clinic, stemming from a phishing attack. My assignment involved documenting the findings in a structured format. This project was part of the Google Cybersecurity Professional Certification.
+
+
 <h2>Scenario</h2>
 
 - A small U.S. health care clinic experienced a security incident on Tuesday at 9:00 a.m. which severely disrupted their business operations.
