@@ -12,6 +12,18 @@ I was presented with a scenario involving a security incident at a Health Care C
 
 <h2>Documentation</h2>
 
+Date: December 10, 2023
+Entry #1
 
-![journal](https://github.com/wilsonmantilla/Documenting-Security-Breach/assets/159208489/60a3d9c3-d877-45ae-8b8c-4907513f957b)
+Description: Documenting cyber security breach
 
+- Who: An organized group of unethical hackers
+- What: A ransomware security incident
+- Where: Health Care Company
+- When: Tuesday, 9:00am
+- Why: The hackers accessed the company's systems through a phishing attack. Once they got in, they put their ransomware on the company's systems, encrypting important files. The intent appears to be financial due to the ransom note demanding a large sum of money to decrypt the files.
+
+<h2>Additinal Notes</h2>
+
+- The health care clinic can implement solutions such as employee training agaisnt phishing attacks and email filters to try to prevent this incident from happening again.
+- Can these files be restored without having to pay ransom?
